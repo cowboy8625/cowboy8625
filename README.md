@@ -1,5 +1,5 @@
 ### My name is Cowboy8625 👋
-[![button](http://windows10top.com/wp-content/uploads/2017/10/Discord-Icon.png)](https://discord.gg/KwnGX8P)
+[![](http://windows10top.com/wp-content/uploads/2017/10/Discord-Icon.png)](https://discord.gg/KwnGX8P)
 
 <!--
 **cowboy8625/cowboy8625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
