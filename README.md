@@ -1,5 +1,5 @@
 ### My name is Cowboy8625 👋
-[![](https://www.thrifter.com/sites/thrifter.com/files/styles/medium/public/article-images/2018/11/discord.png?itok=Gvzs4qq2){: width=150 height=100}](https://discord.gg/KwnGX8P)
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KwnGX8P)
 
 <!--
 **cowboy8625/cowboy8625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
