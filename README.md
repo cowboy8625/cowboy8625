@@ -1,16 +1,24 @@
-### My name is Cowboy8625 👋
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KwnGX8P)
 
-### About Me
-  I like to Hunt, Fish, Playing Guitar, Singing, Bee Keeping, Play Video Game (AKA Minecraft), Video Editing, 
-  Geocaching, Welding, Travel, and of course Programing.
+### Hello, I am Cowboy,
 
-### Find Me
-**CodeX** [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KwnGX8P)
+  I started programing in 2018 at the age of 31 better late then never.
+  My favorit language is Rust.
+  My Editor of choice is NeoVim, maybe one day Revim.
+  
 
-[![**YOUTUBE**](https://img.icons8.com/officel/2x/youtube-play.png)](https://www.youtube.com/cowboy8625)
+### Maintained Projects
+[rust-rain](https://rusty-rain.xyz)
 
+### Current Projects
+[Revim](https://github.com/cowboy8625/revim)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cowboy8625&count_private=true&show_icons=true&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowboy8625&layout=compact&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="https://img.icons8.com/officel/2x/youtube-play.png"></a>
+  <a href="https://discord.gg/KwnGX8P"><img alt="Discord Chat" src="https://img.shields.io/discord/509849754155614230"></a>
+</p>
+
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=cowboy8625&count_private=true&show_icons=true&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowboy8625&layout=compact&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
 </p>
