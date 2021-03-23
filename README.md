@@ -6,11 +6,11 @@
   
 
 ### Maintained Projects
-[rust-rain](https://rusty-rain.xyz)
+  - [rust-rain](https://rusty-rain.xyz)
 
 ### Current Projects
-[Revim](https://github.com/cowboy8625/revim)
-[eztui](https://github.com/cowboy8625/eztui)
+  - [Revim](https://github.com/cowboy8625/revim)
+  - [eztui](https://github.com/cowboy8625/eztui)
 
 <p align="center">
   <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="./youtube-logo.png"></a>
