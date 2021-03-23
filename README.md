@@ -14,13 +14,11 @@
 
 <p align="center">
   <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="https://img.icons8.com/officel/2x/youtube-play.png"></a>
-  <p>Subscribe to my Channel</p>
+  <p align="center">Subscribe to my Channel</p>
 </p>
 <p align="center">
   <a href="https://discord.gg/KwnGX8P"><img alt="Discord Chat" src="https://img.shields.io/discord/509849754155614230"></a>
-  <p>
-  Come see when the next game jam is!
-  </p>
+  <p align="center">Come see when the next game jam is!</p>
 </p>
 
 <p align="center">
