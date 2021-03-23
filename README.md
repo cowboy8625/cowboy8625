@@ -13,7 +13,7 @@
 [eztui](https://github.com/cowboy8625/eztui)
 
 <p align="center">
-  <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="https://img.icons8.com/officel/2x/youtube-play.png"></a>
+  <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="./youtube-logo.png"></a>
   <p align="center">Subscribe to my Channel</p>
 </p>
 <p align="center">
