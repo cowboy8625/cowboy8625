@@ -12,6 +12,9 @@
   - [Revim](https://github.com/cowboy8625/revim)
   - [eztui](https://github.com/cowboy8625/eztui)
 
+### Contributer to
+  - [crossterm](https://github.com/crossterm-rs/crossterm)
+
 <p align="center">
   <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="./youtube-logo.png"></a>
   <br>Subscribe to my Channel
