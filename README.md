@@ -12,7 +12,7 @@
   - [Revim](https://github.com/cowboy8625/revim)
   - [eztui](https://github.com/cowboy8625/eztui)
 
-### Contributer to
+### Contributed to Projects
   - [crossterm](https://github.com/crossterm-rs/crossterm)
 
 <p align="center">
