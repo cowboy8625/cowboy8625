@@ -1,19 +1,41 @@
+<p align="center">
 ### Hello, I am Cowboy,
+</p>
 
+<p align="center">
   - I started programing in 2018 at the age of 31 better late then never.
+</p>
+<p align="center">
   - My favorit language is Rust.
+</p>
+<p align="center">
   - My Editor of choice is NeoVim, maybe one day Revim.
-  
+</p>
 
+
+<p align="center">
 ### Maintained Projects
+</p>
+<p align="center">
   - [rust-rain](https://rusty-rain.xyz)
+</p>
 
+<p align="center">
 ### Current Projects
+</p>
+<p align="center">
   - [Revim](https://github.com/cowboy8625/revim)
+</p>
+<p align="center">
   - [eztui](https://github.com/cowboy8625/eztui)
+</p>
 
+<p align="center">
 ### Contributer to
+</p>
+<p align="center">
   - [crossterm](https://github.com/crossterm-rs/crossterm)
+</p>
 
 <p align="center">
   <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="./youtube-logo.png"></a>
