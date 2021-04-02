@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cowboy8625&count_private=true&show_icons=true&bg_color=26292200&title_color=4EE2EC&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api?username=cowboy8625&count_private=true&show_icons=true&bg_color=26292200&title_color=4EE2EC&text_color=4EE2EC&icon_color=00ddf0&locale=en">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cowboy8625&layout=compact&bg_color=26292200&title_color=7cf221&text_color=4EE2EC&icon_color=00ddf0&locale=en">
 </p>
