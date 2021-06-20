@@ -2,14 +2,14 @@
 
   - I started programing in 2018 at the age of 31 better late then never.
   - My favorit language is Rust.
-  - My Editor of choice is NeoVim, maybe one day Revim.
+  - My Editor of choice is NeoVim, maybe one day ReVi.
 
 
 ### Maintained Projects
   - [rust-rain](https://rusty-rain.xyz)
 
 ### Current Projects
-  - [Revim](https://github.com/cowboy8625/revim)
+  - [ReVi](https://github.com/cowboy8625/revi)
   - [eztui](https://github.com/cowboy8625/eztui)
 
 ### Contributed to Projects
