@@ -9,7 +9,7 @@
   - [rust-rain](https://rusty-rain.xyz)
 
 ### Current Projects
-  - [ReVi](https://github.com/cowboy8625/revi)
+  - [ReVi](https://github.com/revi-editor/revi)
   - [eztui](https://github.com/cowboy8625/eztui)
 
 ### Contributed to Projects
