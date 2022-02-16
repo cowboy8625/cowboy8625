@@ -16,10 +16,6 @@
   - [crossterm](https://github.com/crossterm-rs/crossterm)
 
 <p align="center">
-  <a href="https://www.youtube.com/cowboy8625"><img width=35 height=25 alt="Youtube" src="./youtube-logo.png"></a>
-  <br>Subscribe to my Channel
-</p>
-<p align="center">
   <a href="https://discord.gg/KwnGX8P"><img alt="Discord Chat" src="https://img.shields.io/discord/509849754155614230"></a>
   <br>Come see when the next game jam is!
 </p>
