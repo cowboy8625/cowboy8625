@@ -4,7 +4,7 @@
   - My favorite language is Rust.
   - My Editor of choice is NeoVim, maybe one day ReVi.
   - Text editors and Languages are my favorite type of projects at the moment.
-  - Just learning about Software development in general is extremely fun.
+  - Just learning about software development in general is extremely fun.
 
 
 ### Maintained Projects
