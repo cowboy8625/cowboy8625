@@ -1,8 +1,10 @@
 ### Hello, I am Cowboy,
 
-  - I started programing in 2018 at the age of 31 better late then never.
-  - My favorit language is Rust.
+  - I started programming in 2018 at the age of 31 better late then never.
+  - My favorite language is Rust.
   - My Editor of choice is NeoVim, maybe one day ReVi.
+  - Text editors and Languages are my favorite type of projects at the moment.
+  - Just learning about Software development in general is extremely fun.
 
 
 ### Maintained Projects
