@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="https://discord.gg/KwnGX8P"><img alt="Discord Chat" src="https://img.shields.io/discord/509849754155614230"></a>
-  <br>Come see when the next game jam is!
 </p>
 
 <p align="center">
