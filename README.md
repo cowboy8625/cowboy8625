@@ -11,8 +11,8 @@
   - [rust-rain](https://rusty-rain.xyz)
 
 ### Current Projects
+  - [Snow Lang](https://github.com/cowboy8625/snow-lang)
   - [ReVi](https://github.com/revi-editor/revi)
-  - [eztui](https://github.com/cowboy8625/eztui)
 
 ### Contributed to Projects
   - [crossterm](https://github.com/crossterm-rs/crossterm)
